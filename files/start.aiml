@@ -20,10 +20,6 @@
 <template><srai>HI</srai></template>
 </category>
 
-<category>
-<pattern>WHATS UP</pattern>
-<template><srai>HI</srai></template>
-</category>
     <category>
         <pattern>HI</pattern>
         <template>
