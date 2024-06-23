@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<category>
+<pattern>HELLO</pattern>
+<template><srai>HI</srai></template>
+</category>
+
+<category>
+<pattern>HEY</pattern>
+<template><srai>HI</srai></template>
+</category>
+
+<category>
+<pattern>HI THERE</pattern>
+<template><srai>HI</srai></template>
+</category>
+
+<category>
+<pattern>HELLO THERE</pattern>
+<template><srai>HI</srai></template>
+</category>
+
+<category>
+<pattern>WHATS UP</pattern>
+<template><srai>HI</srai></template>
+</category>
+    <category>
+        <pattern>HI</pattern>
+        <template>
+        Hi there! I am a career bot that can help you select the right career for you. Can I know your name?
+        </template>
+    </category>
+<category>
+<pattern> _ NAME _ *</pattern>
+<template>Nice to meet you, <set name="name"><star index="3"/></set> . What can I help you with today?
+    <button>
+        <text>List all careers I can potentially pursue with my computer science degree</text>
+            <postback>all careers</postback>
+    </button>
+    <button>
+        <text>Recommend me top 5 careers I should pursue with my computer science degree</text>
+            <postback>top careers</postback>
+    </button>   
+</template>
+</category>
+<category>
+    <pattern>TOP CAREERS</pattern>
+    <template>
+        Ok <get name="name" />, I will ask you a few questions to recommend the right entry-level jobs for you. <br></br><br></br>
+        Do you like to code?
+        <button>
+            <text>yes</text>
+            <postback>code question</postback>
+        </button>
+        <button>
+            <text>No</text>
+            <postback>noncode question</postback>
+        </button>
+    </template>
+</category>
+<category>
+    <pattern>CODE QUESTION</pattern>
+    <template>
+        Ok <get name="name" />, Do you like to code websites or applications?
+    </template>
+</category>
+
+<category>
+    <pattern>WEBSITES</pattern>
+    <template>Yes <get name="name" />, websites are fun to make. Click below to see your 5 recommended jobs:
+    <button>
+        <text>Your 5 recommended jobs</text>
+        <postback>website careers</postback>
+    </button>
+    </template>
+</category>
+<category>
+<pattern>_ WEBSITES</pattern>
+<template><srai>WEBSITES</srai></template>
+</category>
+<category>
+<pattern>_ WEBSITE</pattern>
+<template><srai>WEBSITES</srai></template>
+</category>
+
+<category>
+    <pattern>APPLICATIONS</pattern>
+    <template>OK <get name="name" />, you like a challenge. Click below to see your 5 recommended jobs:
+    <button>
+        <text>Your 5 recommended jobs</text>
+        <postback>application careers</postback>
+    </button>
+    </template>
+</category>
+<category>
+<pattern>_ APPLICATIONS</pattern>
+<template><srai>APPLICATIONS</srai></template>
+</category>
+<category>
+<pattern>_ APPLICATION</pattern>
+<template><srai>APPLICATIONS</srai></template>
+</category>
+<category>
+<pattern>_ APPS</pattern>
+<template><srai>APPLICATIONS</srai></template>
+</category>
+<category>
+<pattern>APPS</pattern>
+<template><srai>APPLICATIONS</srai></template>
+</category>
+
+<category>
+    <pattern>NONCODE QUESTION</pattern>
+    <template>Gotcha <get name="name" />. <br></br> I know coding is cumbersome so here are 5 jobs recommended for you that require other skillsets but much less coding. Click below to find out.
+    <button>
+        <text>Your 5 recommended jobs</text>
+        <postback>noncode careers</postback>
+    </button></template>
+</category>
+</aiml>

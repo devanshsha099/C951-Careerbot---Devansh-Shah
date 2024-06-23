@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+	    <pattern>ALL CAREERS</pattern>
+	    <template>Click on any of the entry-level careers you can pursue with your computer science degree to know more about it.
+	    <button>
+	        <text>Web developer</text>
+	        <postback>web developer</postback>
+	    </button>
+	    <button>
+	        <text>Software developer</text>
+	        <postback>software developer</postback>
+	    </button>
+	    <button>
+	        <text>Game developer</text>
+	        <postback>game developer</postback>
+	    </button>
+	    <button>
+	        <text>Front end developer</text>
+	        <postback>front end developer</postback>
+	    </button>
+	    <button>
+	        <text>UX designer</text>
+	        <postback>ux designer</postback>
+	    </button>
+	    <button>
+	        <text>Graphic designer</text>
+	        <postback>graphic designer</postback>
+	    </button>
+	    <button>
+	        <text>Cybersecurity analyst</text>
+	        <postback>cybersecurity analyst</postback>
+	    </button>
+	    <button>
+	        <text>Back end developer</text>
+	        <postback>back end developer</postback>
+	    </button>
+	    <button>
+	        <text>Database developer</text>
+	        <postback>database developer</postback>
+	    </button>
+	    <button>
+	        <text>Web designer</text>
+	        <postback>web designer</postback>
+	    </button>
+	    <button>
+	        <text>IT analyst</text>
+	        <postback>it anaylyst</postback>
+	    </button>
+	    <button>
+	        <text>Data analyst</text>
+	        <postback>data analyst</postback>
+	    </button>
+	    <button>
+	        <text>Network specialist</text>
+	        <postback>network specialist</postback>
+	    </button>
+	    <button>
+	        <text>Help Desk Technician</text>
+	        <postback>help desk technician</postback>
+	    </button>
+	    </template>
+	</category>
+</aiml>

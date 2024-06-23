@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+	    <pattern>APPLICATION CAREERS</pattern>
+	    <template>Here is your list. Click on any of your application-related recommended careers to know more about it.
+	    <button>
+	        <text>Software developer</text>
+	        <postback>software developer</postback>
+	    </button>
+	    <button>
+	        <text>Game developer</text>
+	        <postback>game developer</postback>
+	    </button>
+	    <button>
+	        <text>Front end developer</text>
+	        <postback>front end developer</postback>
+	    </button>
+	    <button>
+	        <text>Back end developer</text>
+	        <postback>back end developer</postback>
+	    </button>
+	    <button>
+	        <text>Database developer</text>
+	        <postback>database developer</postback>
+	    </button>
+	    </template>
+	</category>
+</aiml>

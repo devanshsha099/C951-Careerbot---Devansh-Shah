@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+	    <pattern>WEBSITE CAREERS</pattern>
+	    <template>Here is your list. Click on any of your web-related recommended careers to know more about it.
+	    <button>
+	        <text>Web developer</text>
+	        <postback>web developer</postback>
+	    </button>
+	    <button>
+	        <text>Front end developer</text>
+	        <postback>front end developer</postback>
+	    </button>
+	    <button>
+	        <text>UX designer</text>
+	        <postback>ux designer</postback>
+	    </button>
+	    <button>
+	        <text>Graphic designer</text>
+	        <postback>graphic designer</postback>
+	    </button>
+	    <button>
+	        <text>Web designer</text>
+	        <postback>web designer</postback>
+	    </button>
+	    </template>
+	</category>
+</aiml>

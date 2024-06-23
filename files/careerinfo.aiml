@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+	    <pattern>WEB DEVELOPER</pattern>
+	    <template>
+	        A Web Developer is a professional who is responsible for the design and construction of websites. They ensure that sites meet user expectations by ensuring they look good, run smoothly and offer easy access points with no loading issues between pages or error messages. <br></br><br></br><a href="https://resources.workable.com/web-developer-job-description">Learn More</a>
+	    </template>
+	</category>
+	<category>
+	    <pattern>SOFTWARE DEVELOPER</pattern>
+	    <template>
+	       A Software Developer is a professional who is charged with designing and coding software for businesses and consumers alike. They work closely with clients to determine what they need, then use programming languages like Java or C++ to create programs. They must have critical thinking skills, as well as strong problem-solving abilities. <br></br><br></br><a href="https://resources.workable.com/software-developer-job-description">Learn More</a>
+	    </template>
+	</category>
+	<category>
+	    <pattern>GAME DEVELOPER</pattern>
+	    <template>
+	      Game developers turn concepts, stories, and designs into playable video games. Using various programming languages, specialized software applications, and a series of test runs, they breathe life into characters and simulate plots and storylines, creating an immersive and user-friendly electronic gaming experience. <br></br><br></br><a href="https://resources.workable.com/game-developer-job-description">Learn More</a>
+	    </template>
+	</category>
+	<category>
+	    <pattern>FRONT END DEVELOPER</pattern>
+	    <template>
+	        A Front-End Web Developer is a tech industry professional who builds the front portion of websites that customers, guests, or clients use on a daily basis. <br></br><br></br><a href="https://resources.workable.com/front-end-developer-job-description">Learn More</a>
+	    </template>
+	</category>
+	<category>
+	    <pattern>UX DESIGNER</pattern>
+	    <template>
+	        A UX Designer is a professional responsible for turning applications into something that people enjoy using. They do this by studying the user experience and measuring how easy it is to complete tasks in an efficient manner while improving ease-of-use capabilities through many different approaches. <br></br><br></br><a href="https://resources.workable.com/ux-designer-job-description">Learn More</a>
+	    </template>
+	</category>
+	<category>
+	    <pattern>GRAPHIC DESIGNER</pattern>
+	    <template>
+	       A Graphic Designer is an artist who creates visual text and imagery. They design creative content for online campaigns, print ads, websites, and even videos. <br></br><br></br><a href="https://resources.workable.com/graphic-designer-job-description">Learn More</a>
+	    </template>
+	</category>
+	<category>
+	    <pattern>CYBERSECURITY ANALYST</pattern>
+	    <template>
+	        A Cybersecurity Analyst is a professional who helps design and implement security systems to protect an organization’s computer networks from cyber attacks. <br></br><br></br><a href="https://resources.workable.com/cybersecurity-analyst-job-description/">Learn More</a>
+	    </template>
+	</category>
+	<category>
+	    <pattern>BACK END DEVELOPER</pattern>
+	    <template>
+	       Back-end developers are usually responsible for writing the web services and APIs used by front-end developers and mobile application developers. A back-end web developer is responsible for server-side web application logic as well as the integration of the front-end part.  from cyber attacks. <br></br><br></br><a href="https://resources.workable.com/back-end-developer-job-description">Learn More</a>
+	    </template>
+	</category>
+	<category>
+	    <pattern>DATABASE DEVELOPER</pattern>
+	    <template>
+	        Database Developer are generally responsible for the performance, integrity and security of databases. They are often also involved in planning, developing and troubleshooting of databases. <br></br><br></br><a href="https://resources.workable.com/database-developer-job-description">Learn More</a>
+	    </template>
+	</category>
+	<category>
+	    <pattern>WEB DESIGNER</pattern>
+	    <template>
+	        Web designers, also known as web applications designers, create websites, applications, and other digital products that are visually appealing, easy to use, and functional. <br></br><br></br><a href="https://resources.workable.com/web-designer-job-description">Learn More</a>
+	    </template>
+	</category>
+	<category>
+	    <pattern>IT ANALYST</pattern>
+	    <template>
+	        In the IT analyst position, you will analyze the company’s technological operations. A key element in performing this role is to effectively communicate the implications of your analyses to managers, employees, and other stakeholders. Success in this role will be demonstrated by improving the efficiency of system operations, ultimately leading to an increase in profitability. <br></br><br></br><a href="https://resources.workable.com/it-analyst-job-description">Learn More</a>
+	    </template>
+	</category>
+	<category>
+	    <pattern>DATA ANALYST</pattern>
+	    <template>
+	        A data analyst is a professional who collects and analyzes data in order to turn it into meaningful information that companies can use to improve and grow. These individuals gather information from a number of sources and are skilled in researching, analyzing and reporting. <br></br><br></br><a href="https://resources.workable.com/data-analyst-job-description">Learn More</a>
+	    </template>
+	</category>
+	<category>
+	    <pattern>NETWORK SPECIALIST</pattern>
+	    <template>
+	        Network Specialists analyze, troubleshoot and evaluate computer network problems. Network specialists and administrators are responsible for day-to-day operations and network architects and engineers design and build local area networks (LANs), wide area networks (WANs), and Intranets. <br></br><br></br><a href="https://www.comptia.org/content/it-careers-path-roadmap/it-networking-specialist">Learn More</a>
+	    </template>
+	</category>
+	<category>
+	    <pattern>HELP DESK TECHNICIAN</pattern>
+	    <template>
+	        An IT Help Desk Technician is a professional who provides technical support and assistance to customers, whether on the phone or in person. Their primary intention is to ensure a client’s satisfaction and ability to properly operate any machinery or technology they may be having trouble with. <br></br><br></br><a href="https://resources.workable.com/it-help-desk-technician-job-description">Learn More</a>
+	    </template>
+	</category>
+</aiml>

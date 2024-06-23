@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that. Please try again. Tips - 1. Naming convention is 'my name is yourname'. 2. Use a different keyword. </template>
+  </category>
+</aiml>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+	    <pattern>NONCODE CAREERS</pattern>
+	    <template>Here is your list. Click on any of your low coding specialized skillset recommended careers to know more about it.
+	    <button>
+	        <text>Cybersecurity analyst</text>
+	        <postback>cybersecurity analyst</postback>
+	    </button>
+	    <button>
+	        <text>IT analyst</text>
+	        <postback>it anaylyst</postback>
+	    </button>
+	    <button>
+	        <text>Data analyst</text>
+	        <postback>data analyst</postback>
+	    </button>
+	    <button>
+	        <text>Network specialist</text>
+	        <postback>network specialist</postback>
+	    </button>
+	    <button>
+	        <text>Help Desk Technician</text>
+	        <postback>help desk technician</postback>
+	    </button>
+	    </template>
+	</category>
+</aiml>
